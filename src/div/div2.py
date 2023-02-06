@@ -1,2 +1,2 @@
-def div(num):
+def div1(num):
 	return num / 3

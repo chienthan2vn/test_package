@@ -1,6 +1,6 @@
 import sys
 sys.path.append("./src/div")
 
-from div import div
+from div2 import div1
 def test():
-    return div(15)
+    return div1(15)
