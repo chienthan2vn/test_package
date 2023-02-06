@@ -1,2 +1,3 @@
 from div import div
-div(15)
+def test():
+    return div(15)
